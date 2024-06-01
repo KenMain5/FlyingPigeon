@@ -1,0 +1,15 @@
+Minimum Viable Product(v1)
+    - User Entity
+        - User and Password
+    - Install Kafka/Zoo Keeper
+    - Set up Producer/Consumer
+    - Set up Topic
+    - No Database (Currently msg gets lost, but that's okay)
+
+Minimum Viable Product(v2)
+    - Ensure 10% code coverage
+    - Implement CI/CD tools
+
+Minimum Viable Product(v3)
+    - Add Spring Security
+    - Database (We want to save msg in database for persistence)
