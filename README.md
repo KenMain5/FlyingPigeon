@@ -1,8 +1,5 @@
 <h2>Project Description</h2>
-<p>This project is primarily focused on exploring Apache Kafka, followed by learning how to integrate and use the CI tool Jenkins. It is designed with a monolithic architecture and initially, it does not include a database. The application will start with two main entities and will follow the roadmap below. If you have suggestions for improvements or would like to contribute, feel free to submit a pull request. I'm always open to new ideas and collaboration! </p> 
-
-
-
+<p>This project is primarily focused on exploring Apache Kafka, followed by learning how to integrate and use the CI tool Jenkins. It is designed with a monolithic architecture and initially, it does not include a database. The application will start with one main entities and will follow the roadmap below and will have simplest authentication. If you have suggestions for improvements or would like to contribute, feel free to submit a pull request. I'm always open to new ideas and collaboration! </p> 
 
 
 <h2>Minimum Viable Product(v1)</h2>
